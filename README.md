@@ -1,4 +1,4 @@
-# linkedin_poll_blocker
+# LinkedIn Poll Blocker
 Chrome extension to block all LinkedIn polls.
 
 Download the whole repository and extract anywhere you want.
